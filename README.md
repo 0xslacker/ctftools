@@ -1,6 +1,6 @@
 ctftools
 ======
-...A Collection of my CTF tools
+A Collection of my CTF tools
 ```
 .
 ├── Deakin
